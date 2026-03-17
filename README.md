@@ -11,7 +11,7 @@ The Beginning:
 
 <img width="323" height="218" alt="1" src="https://github.com/user-attachments/assets/dd13541c-ef6b-4913-be5f-e7c583cf63d4" />
 
-The Instructiosn to the Void:
+The Instructions to the Void:
 
 
 <img width="320" height="218" alt="2" src="https://github.com/user-attachments/assets/849d94eb-5a79-456c-bd34-faa56eecec36" />
