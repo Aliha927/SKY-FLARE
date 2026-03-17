@@ -6,6 +6,7 @@ It was a challenging yet rewarding way to understand how software talks to hardw
 
 Since the game runs on some pretty specific hardware interrupts and old school VGA modes, a video just wouldn't do it justice. 
 Instead, I have put together the SKY-FLARE GALLERY so you can actually savor every second of the vibe and all the effort that went into this Assembly Blast
+
 The Beginning:
 
 
