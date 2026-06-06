@@ -29,6 +29,7 @@ The Final Flare:
 <img width="325" height="216" alt="3" src="https://github.com/user-attachments/assets/05d86bca-5a90-4174-9c4c-581e10ad3daa" />
 
 
+
 Final Note from the Developers
 
 Assembly is often called 'unforgiving'. It is. But when your old CPU draws exactly the pixels you told it to, at the exact cycle you predicted, that's not just programming. That's conversation with the machine. This gallery is my way of letting you listen in.
